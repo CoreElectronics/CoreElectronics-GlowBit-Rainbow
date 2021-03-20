@@ -1,7 +1,7 @@
 # Core Electronics GlowBit­™ rainbow
 This is the hardware repo for the Core Electronics *GlowBit rainbow*
 
-![](Documents/rainbow2.jpg)
+![](Documents/glowbit-rainbow.jpg)
 
 The [GlowBit™ rainbow](https://core-electronics.com.au/glowbit-rainbow.html) is a beautiful LED display and is a Core Electronics original (made right here in Newcastle, Australia). Onboard, there are 13 individually addressable LEDs – all driven by a single IO pin. Alligator + Banana-plug connections make the rainbow a perfect companion for micro:bit or Circuit Playground since there's no soldering required.
 
