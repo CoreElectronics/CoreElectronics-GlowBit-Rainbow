@@ -3,9 +3,9 @@ This is the hardware repo for the Core Electronics *GlowBit rainbow*
 
 ![](Documents/glowbit-rainbow.jpg)
 
-The [GlowBit™ rainbow](https://core-electronics.com.au/glowbit-rainbow.html) is a beautiful LED display and is a Core Electronics original (made right here in Newcastle, Australia). Onboard, there are 13 individually addressable LEDs – all driven by a single IO pin. Alligator + Banana-plug connections make the rainbow a perfect companion for micro:bit or Circuit Playground since there's no soldering required.
+The [GlowBit™ rainbow](https://core-electronics.com.au/glowbit-rainbow.html) is a beautiful LED display and a *Core Electronics Original* (made right here in Newcastle, Australia). Onboard, there are 13 individually addressable LEDs – all driven by a single IO pin. Alligator + Banana-plug connections make the rainbow a perfect companion for micro:bit or Circuit Playground since there's no soldering required.
 
-Our [getting started guide](https://core-electronics.com.au/tutorials/glowbit-rainbow-quickstart-guide-for-micro-bit.html) covers off on the setup and an example first project. From there, remix to your heart's content. This is the perfect companion for the micro:bit onboard accelerometer and compass, along with other creative ways to display useful information such as angles, gauges, or colourful patterns on a rainbow.
+Our [getting started guide](https://core-electronics.com.au/tutorials/glowbit-rainbow-quickstart-guide-for-micro-bit.html) covers how to wire-up your rainbow, and six creative, code-along projects to get you started. From there, remix to your heart's content. This is the perfect companion for the micro:bit onboard accelerometer and compass, along with other creative ways to display useful information such as angles, gauges, or colourful patterns on a rainbow.
 
 GlowBit devices use the latest WS2812B v5 technology LEDs which are compatible with existing WS2812 / NeoPixel libraries available for popular development boards.
 

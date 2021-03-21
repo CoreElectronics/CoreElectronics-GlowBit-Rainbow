@@ -5,13 +5,13 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "GlowBit Rainbow"
-Date "2020-12-15"
-Rev "1.1"
+Date "2021-03-22"
+Rev "1.2"
 Comp "Core Electronics"
 Comment1 "Designed at Core Electronics by Michael Ruppe"
 Comment2 "License: CCASAv4.0 https://creativecommons.org/licenses/by-sa/4.0/"
 Comment3 "Released under the Creative Commons Attribution Share-Alike 4.0 License"
-Comment4 "A delightful rainbow of colour"
+Comment4 "\"GlowBit\" is a trademark of Core Electronics Pty Ltd"
 $EndDescr
 $Comp
 L power:+3.3V #PWR?
@@ -51,7 +51,7 @@ L Connector:Conn_01x04_Male J4
 U 1 1 5F3CB877
 P 850 4650
 F 0 "J4" H 958 4931 50  0000 C CNN
-F 1 "Conn_01x04_Male" H 958 4840 50  0000 C CNN
+F 1 " " H 958 4840 50  0000 C CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 850 4650 50  0001 C CNN
 F 3 "~" H 850 4650 50  0001 C CNN
 	1    850  4650
